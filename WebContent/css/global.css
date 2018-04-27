@@ -1,0 +1,202 @@
+.foodshow{
+    width: 50px;
+    height: 50px;
+    align-content: center;
+    margin-top: -10px;
+    margin-right: 20px;
+}
+#car ul li{
+    float: left;
+    list-style: none;
+    margin-top: 30px;
+}
+#car ul{
+    border-top: #5e5e5e 1px solid;
+    padding: 10px 0px 10px 0px;
+}
+.order li{
+    float: left;
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.order{
+    padding: 0px;
+    margin: 10px 0px 20px 0px;
+}
+.order-id{
+    width: 100px;
+    text-align: center;
+}
+.order-name{
+    width: 300px;
+}
+.order-singleprice{
+    width: 100px;
+    text-align: center;
+    align-content: center;
+}
+.order-amount{
+    width: 130px;
+    text-align: center;
+}
+.order-sumprice{
+    width: 100px;
+    text-align: center;
+}
+.order-more{
+    width: 200px;
+    text-align: center;
+}
+.order-do{
+    width: 100px;
+    text-align: center;
+}
+.input-num{
+    margin-top: -5px;
+    text-align: center;
+}
+.input-num input{
+    text-align: center;
+}
+.add:hover{
+    background-color: #f5e79e;
+}
+
+.down:hover{
+    background-color: #f5e79e;
+}
+
+.add:active{
+    background-color: #eea236;
+}
+
+.down:active{
+    background-color: #eea236;
+}
+.tred{
+    display: inline;
+    color: #c12e2a;
+}
+.bt{
+    display: inline;
+    margin-right: 50px;
+}
+.logo{
+    width:40px;
+    height: 40px;
+    margin-right: 20px;
+}
+#pay li{
+    list-style: none;
+    margin-top: 30px;
+}
+
+.ppp{
+    height: 150px;
+    color: #5e5e5e;
+}
+.ppp p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+.over{
+    color: orangered;
+}
+.done{
+    color: darkseagreen;
+}
+.caption h3{
+    overflow: hidden;
+}
+.box{
+    height: 600px;
+}
+#foods ul{
+    list-style:none;
+}
+#foods img{
+    width: 200px;
+    height: 200px;
+    margin-top: 25px;
+}
+#foods ul li{
+    list-style: none;
+    float: left;
+    width: 250px;
+    height: 350px;
+    margin: 10px 10px;
+    border: #f8efc0 1px solid;
+    text-align: center;
+}
+.price{
+    display: inline;
+    color: #c12e2a;
+    font-size: 20px;
+    margin-right: 10px;
+    padding-top: 10px;
+}
+#tab1{
+    align-self: center;
+    width: 1366px;
+    height: 768px;
+}
+.float-right{
+    float: right;
+    display: block;
+    position: relative;
+    margin-top: -30px;
+}
+.copyright{
+    text-align: center;
+}
+.order-back-id{
+    width: 150px;
+    text-align: center;
+}
+.order-back-name{
+    width: 400px;
+}
+.order-back-info{
+    width: 200px;
+}
+.order-back-time{
+    width: 150px;
+    text-align: center;
+    align-content: center;
+}
+.order-back-amount{
+    width: 50px;
+    text-align: center;
+}
+.order-back-sumprice{
+    width: 50px;
+    text-align: center;
+}
+.order-back-more{
+    width: 100px;
+    text-align: center;
+}
+.order-back-do{
+    width: 100px;
+    text-align: center;
+}
+.food{
+    clear: both;
+    margin: 10px 0px;
+    background-color: #f8efc0;
+}
+.foods{
+    clear: both;
+    margin: 30px 10px;
+    border-bottom: #f5e79e 1px solid;
+}
+.food li{
+    float: left;
+    list-style: none;
+}
+.foods li{
+    float: left;
+    list-style: none;
+}
